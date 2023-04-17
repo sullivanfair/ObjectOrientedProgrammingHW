@@ -1,3 +1,3 @@
 # Car Stereo
-Class that creates a basic car stereo object.
-Scored 126/120
+Class that creates a basic car stereo object.  <br>Score: 126/120
+
