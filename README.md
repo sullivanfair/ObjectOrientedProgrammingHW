@@ -1,2 +1,2 @@
 # ObjectOrientedProgrammingHW
-Coding assignments from Object Oriented Programming - Com S 227
+Code from Object Oriented Programming - Com S 227
